@@ -1,0 +1,5 @@
+# CV Placeholder
+
+Please place your actual CV PDF file here with the name: `cv-farhan-dwi-septian.pdf`
+
+This file will be downloadable from the hero section of the portfolio website.
